@@ -1,1 +1,1 @@
-# my-sql
+# MySQL Practice
